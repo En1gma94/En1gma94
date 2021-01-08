@@ -8,3 +8,14 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### 🐱‍👤 Recent Github Activity [<img align="right" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website][<img align="right" alt="Stefano Baruffa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter][<img align="right" alt="Stefano Baruffa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<img align="left" alt="Stefano Baruffa's Github Stats" src="https://github-readme-stats-topaz-iota.vercel.app/api?username=En1gma94&show_icons=true&hide_border=true" />
+
+<br />
+<br />
+
+[website]: TDB
+[twitter]: TBD
+[linkedin]: TBD
